@@ -13,6 +13,6 @@ let accountName;
 console.table([accountId , accountEmail, accountPassword, accountCity, accountName])
 
 /*
-Prefer notto use var
+Prefer not to use var
 Because of issue in block scope and funtional scope
 */
