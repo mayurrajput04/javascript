@@ -1,4 +1,4 @@
-const value = 100
+ const value = 100
 console.log(typeof value);
 
 const balance = new Number(100) ;
